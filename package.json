@@ -2,8 +2,8 @@
     "name": "feather",
     "displayName": "Feather",
     "description": "A light, elegant theme for Visual Studio code.",
-    "version": "0.4.0",
-    "publisher": "dericcain",
+    "version": "1.0.0",
+    "publisher": "alexisloiselle",
     "license": "MIT",
     "galleryBanner": {
         "color": "#f1f1f1",
@@ -33,12 +33,12 @@
         ]
     },
     "bugs": {
-        "url": "https://github.com/dericcain/feather-theme/issues",
-        "email": "deric.cain@gmail.com"
+        "url": "https://github.com/alexisloiselle/feather-theme/issues",
+        "email": "alexisloiselle97@hotmail.com"
     },
-    "homepage": "https://github.com/dericcain/feather-theme",
+    "homepage": "https://github.com/alexisloiselle/feather-theme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dericcain/feather-theme"
+        "url": "https://github.com/alexisloiselle/feather-theme"
     }
 }
