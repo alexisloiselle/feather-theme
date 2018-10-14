@@ -214,7 +214,7 @@
         "sideBarSectionHeader.background": "#f2f2f2",
         "statusBar.background": "#ee9968",
         "statusBar.foreground": "#FFFFFF",
-        "statusBarItem.hoverBackground": "#395063",
+        "statusBarItem.hoverBackground": "#af724f",
         "statusBar.noFolderBackground": "#21252B",
         "statusBar.debuggingBackground": "#7dca59",
         "tab.activeBackground": "#FFFFFF",
